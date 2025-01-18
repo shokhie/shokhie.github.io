@@ -1,0 +1,32 @@
+body {
+    background-color:rgba(0, 255, 0, 0.3);
+    background-image: url('emblem.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: bottom right;
+    background-size: 4% 6%;
+}
+
+h1 {
+    color: green;
+    text-align: center;
+}
+
+#about {
+    color: red;
+    text-align: center;
+}
+
+p {
+    color: red;
+}
+
+table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+
+th, td {
+    background-color: #96D4D4;
+}
+
